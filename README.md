@@ -14,7 +14,7 @@ Fork this Repo through repl.it and use `node unityloader41.js` as your run comma
 |:--:|
 | <b>Should look like this when completed.</b>|
 
-[Stuck? Check out my version here!](https://replit.com/@cgolden15/Slope-Game)
+[Stuck? Check out my version here!][(https://replit.com/@EthanIrvine/Slope-Game-1)
 
 ### On Github Pages
 Fork this repo, and open it. Open the repo settings menu and navigate down the the "Pages" tab. Once there, change the Source option to the main branch. A blue box will appear saying that your page is waiting to be published. After about 15-90 seconds, the game will be avalible to play at the url it displays.
